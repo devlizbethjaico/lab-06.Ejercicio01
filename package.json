@@ -1,0 +1,27 @@
+{
+  "name": "lab-06.ejercicio01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+"test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlizbethjaico/lab-06.Ejercicio01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devlizbethjaico/lab-06.Ejercicio01/issues"
+  },
+  "homepage": "https://github.com/devlizbethjaico/lab-06.Ejercicio01#readme",
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
